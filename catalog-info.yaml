@@ -2,6 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "test007"
+  links:
+    url: https://github.com/cookiecutter/cookiecutter
+    title: My Dashboard
+    icon: dashboard
   description: "this is the description for test007 service"
   annotations:
     github.com/project-slug: lancelot1337/test007
