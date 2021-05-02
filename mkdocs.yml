@@ -1,0 +1,8 @@
+site_name: "test007"
+site_description: "this is the description for test007 service"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
